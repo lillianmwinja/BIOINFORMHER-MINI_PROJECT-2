@@ -1,1 +1,2 @@
 # BIOINFORMHER-MINI_PROJECT-2
+This is a short project in which I explored the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species (human, chimpanzee, cow, mouse, chicken, zebrafish) using basic bioinformatics tools. I performed both pairwise and multiple sequence alignment, visualized conservation by generating a sequence logo, and constructed a phylogenetic tree to better understand the evolutionary relationships across these six species. 
